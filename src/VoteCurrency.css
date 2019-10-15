@@ -1,0 +1,57 @@
+.main-div {
+    text-align: center;
+    margin-top: 2%
+  }
+  
+  .mpp-logo {
+    height: 40vmin;
+  }
+  
+  .main_header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .div-voteitem{
+    margin: 20px auto;
+    text-align: center;
+    display: table;
+  }
+
+  .ul-voteitem{
+    width: 700px;
+    margin: 0 auto;
+    float: left;
+    text-align: center;
+  }
+
+  .li-voteitem{
+    margin: 10px;
+    width : 200px;
+    height : 300px;
+    float: left;
+    display: inline;
+    background: -webkit-linear-gradient(right top, #90d276 , #20d9b1);
+  }
+
+  .img-voteitem{
+    width: 200px;
+    height: 200px;
+  }
+
+  .font-voteitem{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+  }
+
+  .main-link {
+    color: #09d3ac;
+  }
+  
